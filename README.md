@@ -1,1 +1,1 @@
-<param ve-config title=”Wilkie Collins” author=”Alyson”>
+<param ve-config title="Wilkie Collins" author="Alyson">
