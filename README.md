@@ -16,6 +16,6 @@ Ramsgate appears as a setting in a number of his stories, including Poor Miss Fi
 Today, the houses he stayed at are marked by obligatory blue plaques which give no hint of his non-conformist ways and the great genius that inspired them.
 <param ve-entity eid="Q736439" marker-symbol="anchor" title="Ramsgate"> 
 <param ve-entity eid="Q922739" marker-symbol="lightbulb-on" title="Broadstairs">
-<param ve-map center="Q736439" zoom="11">
+<param ve-map center="Q736439" zoom="12">
 
 
