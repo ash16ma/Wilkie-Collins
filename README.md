@@ -15,7 +15,7 @@ Using the alias ‘William Dawson’ to stay with his children and their mother,
 Ramsgate appears as a setting in a number of his stories, including Poor Miss Finch (1872), The Law and the Lady (1875) and The Fallen Leaves (1879)[3] and nearby Broadstairs is often credited as the inspiration behind his most famous novel, The Woman in White. Legend has it that Collins had great difficulty in finding a title for the novel and in desperation walked for hours on the cliffs between the Fort House and Kingsgate. Exhausted, he threw himself on the grass admonishing the lighthouse: ‘you are ugly and stiff and awkward; you know you are: as stiff and as weird as my white woman. White woman!-woman in white! The title, by Jove’”[4]
 Today, the houses he stayed at are marked by obligatory blue plaques which give no hint of his non-conformist ways and the great genius that inspired them.
 <param ve-entity eid="Q736439" marker-symbol="anchor" title="Ramsgate"> 
-<param ve-entity eid="Q922739" title="Broadstairs">
-<param ve-map center="Q736439" zoom="9">
+<param ve-entity eid="Q922739" marker-symbol="lightbulb-on" title="Broadstairs">
+<param ve-map center="Q736439" zoom="11">
 
 
