@@ -7,7 +7,8 @@ But who shall accompany you on your visit? Your constant companion and probable 
 
 For the best-selling author, playwright and father of detective fiction, Wilkie Collins (1824-1889), there was no choice to make-take them both. Ramsgate became his frequent escape from the demands and bustle of the London Metropolis; the sea air improved his health and inspired his creativity. He spent his time fishing, walking and sailing, writing instalments of his latest work in between his leisure pursuits and time spent with his friends and families. As Peter Ackroyd acknowledges,
 “Ramsgate had entered his imagination. He could wander to the harbour and hire a boat, or he could walk among the crowd of holidaymakers and admire with them the glittering sea”.[2]
-<param ve-entity eid="Q736439" title="Ramsgate"> 
+
+<param ve-entity eid="Q736439" marker-symbol="anchor" title="Ramsgate"> 
 <param ve-entity eid="Q922739" title="Broadstairs">
 <param ve-map center="Q736439" zoom="9">
 
