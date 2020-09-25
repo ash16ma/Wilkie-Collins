@@ -10,7 +10,7 @@ For the best-selling author, playwright and father of detective fiction, Wilkie 
 
 <param ve-entity eid="Q736439" marker-symbol="anchor" title="Ramsgate"> 
 <param ve-entity eid="Q922739" title="Broadstairs">
-<param ve-map center="Q736439" zoom="9" basemap="Stamen_Watercolor">
+<param ve-map center="Q736439" zoom="9" prefer-geojson basemap="Stamen_Watercolor">
 
 Using the alias ‘William Dawson’ to stay with his children and their mother, Martha Rudd at Wellington Crescent and staying under his own name with his life-long companion Caroline Graves in Nelson Crescent, just the other side of the bay, Collins led a scandalous double-life, married to neither woman and refusing to conform to the expectations of polite Victorian society. Outwardly, Collins had created respectable personas which allowed him to continue his relationships under the noses of his unsuspecting landlords, though there is evidence that many of his acquaintances, including his close friend Charles Dickens, were well aware of his situation.
 Ramsgate appears as a setting in a number of his stories, including Poor Miss Finch (1872), The Law and the Lady (1875) and The Fallen Leaves (1879)[3] and nearby Broadstairs is often credited as the inspiration behind his most famous novel, The Woman in White. Legend has it that Collins had great difficulty in finding a title for the novel and in desperation walked for hours on the cliffs between the Fort House and Kingsgate. Exhausted, he threw himself on the grass admonishing the lighthouse: ‘you are ugly and stiff and awkward; you know you are: as stiff and as weird as my white woman. White woman!-woman in white! The title, by Jove’”[4]
