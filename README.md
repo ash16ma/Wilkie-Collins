@@ -10,7 +10,7 @@ For the best-selling author, playwright and father of detective fiction, Wilkie 
 <param ve-entity eid="Q736439" marker-symbol="anchor" title="Ramsgate"> 
 <param ve-map center="Q736439" zoom="9" basemap="Stamen_Watercolor">
 
-Using the alias ‘William Dawson’ to stay with his children and their mother, Martha Rudd at Wellington Crescent and staying under his own name with his life-long companion Caroline Graves in Nelson Crescent, just the other side of the bay, Collins led a scandalous double-life, married to neither woman and refusing to conform to the expectations of polite Victorian society. Outwardly, Collins had created respectable personas which allowed him to continue his relationships under the noses of his unsuspecting landlords, though there is evidence that many of his acquaintances, including his close friend Charles Dickens, were well aware of his situation. <span data-click-image-zoomto=150,26,300,533>Nelson Crescent </span>
+Using the alias ‘William Dawson’ to stay with his children and their mother, Martha Rudd at Wellington Crescent and staying under his own name with his life-long companion Caroline Graves in <span data-click-image-zoomto=150,26,300,533>Nelson Crescent </span>, just the other side of the bay, Collins led a scandalous double-life, married to neither woman and refusing to conform to the expectations of polite Victorian society. Outwardly, Collins had created respectable personas which allowed him to continue his relationships under the noses of his unsuspecting landlords, though there is evidence that many of his acquaintances, including his close friend Charles Dickens, were well aware of his situation. 
 
 <param ve-image iiif url="https://raw.githubusercontent.com/ash16ma/Wilkie-Collins/master/Images/Nelson Crescent.jpg"label="Nelson Crescent" fit="84,-49,348,617">
 
@@ -22,7 +22,7 @@ Today, the houses he stayed at are marked by obligatory blue plaques which give 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ3Mzg2MzQsLTE3ODM3ODAzMTYsLT
-U1NjAzOTczOSwxMzE4NTIwMzExLDE0OTMzNTk1ODksODk0OTM3
-NzcsLTM4MjU3NDQyNiwtMTAyODI4MjY4NF19
+eyJoaXN0b3J5IjpbMTg2MDQ3MjQxNCwtMTc4Mzc4MDMxNiwtNT
+U2MDM5NzM5LDEzMTg1MjAzMTEsMTQ5MzM1OTU4OSw4OTQ5Mzc3
+NywtMzgyNTc0NDI2LC0xMDI4MjgyNjg0XX0=
 -->
