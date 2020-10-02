@@ -1,7 +1,7 @@
 <param ve-config title="Wilkie Collins" author="Alyson" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/5/5b/Wilkie_Collins.jpg">
 #Make 'em cry, make 'em laugh, make 'em wait
 
-It’s been a tough year producing story after story with increasingly complicated plotlines, brilliantly illuminated characters and that all important sensation of fear, excitement and suspense. Everywhere you go you are recognised as a celebrity, the public stop you in the street for inside information about the latest cliff-hanger and clamour after each and every word you say as well as write, but you feel the pressures of success and the encroachment of age. Gout brings a constant discomfort and pain, laudanum becomes your trusty friend and companion during the dark times. But stop! There is another way to relieve your mind and embrace your unorthodox lifestyle. A trip to the seaside town you visited as a boy, the place in which your mother declared that you “behaved nobly in the sea”[1], frolicking at the water’s edge with your siblings and indulging your passion for sailing.
+It’s been a tough year producing story after story with increasingly complicated plotlines, brilliantly illuminated characters and those all important sensations of fear, excitement and suspense. Everywhere you go you are recognised as a celebrity, the public stop you in the street for inside information about the latest cliff-hanger and clamour after each and every word you say as well as write, but you feel the pressures of success and the encroachment of age. Gout brings a constant discomfort and pain, laudanum becomes your trusty friend and companion during the dark times. But there is another way to relieve your mind and embrace your unorthodox lifestyle. A trip to the seaside town you visited as a boy, the place in which your mother declared that you “behaved nobly in the sea”[1], frolicking at the water’s edge with your siblings and indulging your passion for sailing.
 But who shall accompany you on your visit? Your constant companion and probable lover, keeper of your books and devoted mother to a brilliant daughter, both of whom respect your wish to avoid polite society, the prohibitive restrictions of formal dress and humour your bohemian ways? Or your young lover, mother to your own children but also strong, courageous, independent and highly attractive?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Charles_Allston_Collins_%281828-1873%29_-_Wilkie_Collins_-_676_-_Fitzwilliam_Museum.jpg/191px-Charles_Allston_Collins_%281828-1873%29_-_Wilkie_Collins_-_676_-_Fitzwilliam_Museum.jpg">
 
@@ -22,5 +22,5 @@ Today, the houses he stayed at are marked by obligatory blue plaques which give 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgyODI2ODRdfQ==
+eyJoaXN0b3J5IjpbLTM4MjU3NDQyNiwtMTAyODI4MjY4NF19
 -->
