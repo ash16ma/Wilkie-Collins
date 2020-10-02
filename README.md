@@ -11,6 +11,8 @@ For the best-selling author, playwright and father of detective fiction, Wilkie 
 <param ve-map center="Q736439" zoom="9" basemap="Stamen_Watercolor">
 
 Using the alias ‘William Dawson’ to stay with his children and their mother, Martha Rudd at Wellington Crescent and staying under his own name with his life-long companion Caroline Graves in Nelson Crescent, just the other side of the bay, Collins led a scandalous double-life, married to neither woman and refusing to conform to the expectations of polite Victorian society. Outwardly, Collins had created respectable personas which allowed him to continue his relationships under the noses of his unsuspecting landlords, though there is evidence that many of his acquaintances, including his close friend Charles Dickens, were well aware of his situation.
+<span data-click-image-zoomto=150,26,300,533>Nelson Crescent </span>
+
 <param ve-image iiif url="https://raw.githubusercontent.com/ash16ma/Wilkie-Collins/master/Images/Nelson Crescent.jpg"label="Nelson Crescent" fit="84,-49,348,617">
 
 Ramsgate appears as a setting in a number of his stories, including Poor Miss Finch (1872), The Law and the Lady (1875) and The Fallen Leaves (1879)[3] and nearby Broadstairs is often credited as the inspiration behind his most famous novel, The Woman in White. Legend has it that Collins had great difficulty in finding a title for the novel and in desperation walked for hours on the cliffs between the Fort House and Kingsgate. Exhausted, he threw himself on the grass admonishing the lighthouse: ‘you are ugly and stiff and awkward; you know you are: as stiff and as weird as my white woman. White woman!-woman in white! The title, by Jove’”[4]
@@ -21,7 +23,7 @@ Today, the houses he stayed at are marked by obligatory blue plaques which give 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM3ODAzMTYsLTU1NjAzOTczOSwxMz
-E4NTIwMzExLDE0OTMzNTk1ODksODk0OTM3NzcsLTM4MjU3NDQy
-NiwtMTAyODI4MjY4NF19
+eyJoaXN0b3J5IjpbLTU3NDY4MTk2NiwtMTc4Mzc4MDMxNiwtNT
+U2MDM5NzM5LDEzMTg1MjAzMTEsMTQ5MzM1OTU4OSw4OTQ5Mzc3
+NywtMzgyNTc0NDI2LC0xMDI4MjgyNjg0XX0=
 -->
