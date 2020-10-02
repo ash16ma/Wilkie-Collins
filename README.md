@@ -11,7 +11,6 @@ For the best-selling author, playwright and father of detective fiction, Wilkie 
 <param ve-map center="Q736439" zoom="9" basemap="Stamen_Watercolor">
 
 Using the alias ‘William Dawson’ to stay with his children and their mother, Martha Rudd at Wellington Crescent and staying under his own name with his life-long companion Caroline Graves in Nelson Crescent, just the other side of the bay, Collins led a scandalous double-life, married to neither woman and refusing to conform to the expectations of polite Victorian society. Outwardly, Collins had created respectable personas which allowed him to continue his relationships under the noses of his unsuspecting landlords, though there is evidence that many of his acquaintances, including his close friend Charles Dickens, were well aware of his situation.
-<![endif]-->
 
 <param ve-image iiif url="https://raw.githubusercontent.com/ash16ma/Wilkie-Collins/images/Nelson Crescent.jpg">
 
@@ -23,5 +22,5 @@ Today, the houses he stayed at are marked by obligatory blue plaques which give 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMzU5MjM2XX0=
+eyJoaXN0b3J5IjpbLTEwMzY1MjczMTNdfQ==
 -->
